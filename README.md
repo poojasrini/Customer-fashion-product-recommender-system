@@ -7,11 +7,11 @@ https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations
 ![](Jerry/H%20&%20M%20Data%20Schema.png)
 
 ## Work Distribution
-Zhe and Pooja: articles.csv
+articles.csv: table
 
-Arvind and Tom: transactions.csv, images
+transactions.csv: images
 
-Ayushi: customers.csv, images
+customers.csv: images
 
 Transactions.csv summary:
 
@@ -39,4 +39,3 @@ Transactions.csv summary:
 > `garment_group_no`, `garment_group_name`: **<span style="color:#023e8a;">: A unique identifier of every garment and its name</span>**  
 > `detail_desc`: **<span style="color:#023e8a;">: Details</span>**  
 
-## Useful information
