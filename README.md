@@ -6,7 +6,7 @@ https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations
 
 ![](Jerry/H%20&%20M%20Data%20Schema.png)
 
-## Work Distribution
+
 articles.csv: table
 
 transactions.csv: images
