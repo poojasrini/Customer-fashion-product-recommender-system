@@ -4,9 +4,6 @@ Applied machine learning group project on H&amp;M dataset
 ## Data
 https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data
 
-![](Jerry/H%20&%20M%20Data%20Schema.png)
-
-
 articles.csv: table
 
 transactions.csv: images
